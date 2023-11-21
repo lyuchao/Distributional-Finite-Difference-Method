@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "add own name"
+git commit -m "build readme for difference directory"
 git push origin main
