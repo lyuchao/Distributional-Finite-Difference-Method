@@ -1,1 +1,2 @@
-# dfdm
+# Distributional Finite Difference Method (DFDM)
+
