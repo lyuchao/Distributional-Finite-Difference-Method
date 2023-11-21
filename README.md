@@ -5,5 +5,19 @@ If you want to follow and participate the development of DFDM, please follow us 
 
 
 If you use own code to implement your project, please cite at least one paper below
+
+## Presentations
+2023.12 AGU oral presentation: Distributional finite difference method for 3D seismic wave propagation. S21A-02 
+2023.04 SSA oral presentation: Three-dimensional distributional finite-difference modeling of elastic wave propagation in a heterogeneous Earth.
+
 ## References
-<a id="1">[1]</a> Yder Masson. (2023). Distributional finite-difference modelling of seismic waves. Geophysical Journal International, Volume 233, Issue 1, April 2023, Pages 264–296, https://doi.org/10.1093/gji/ggac306.
+### Published
+<a id="1">[1]</a> Yder Masson. Distributional finite-difference modelling of seismic waves. Geophysical Journal International, Volume 233, Issue 1, April 2023, Pages 264–296, https://doi.org/10.1093/gji/ggac306.
+<a id="2">[2]</a> Yder Masson and Jean Virieux. P-SV-wave propagation in heterogeneous media: Velocity-stress distributional finite-difference method. GEOPHYSICS 2023 88:3, T165-T183
+### Under Review
+<a id="3">[3]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology. 
+<a id="4">[4]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation.
+### In preparation
+<a id="5">[5]</a> Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz, and Jean Virieux. A stable first-order perfectly matched layer condition via the
+distributional finite-difference method for the acoustic wave propagation modeling.
+
