@@ -1,3 +1,5 @@
+Hi, this is the DFDM github organization site to host a family of distributional finite-difference method code repositories
+![image](figures/basic_cube_sphere_mesh.png)
 # DFDM1D
 matlab code;
 Fortran code;
