@@ -17,8 +17,8 @@ France-Berkeley fund (FBF-10-2019)  Yder Masson
 
 ## References
 ### Under Review
-<a id="1">[1]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology.  
-<a id="2">[2]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation.  
+<a id="1">[1]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology. (GJI)  
+<a id="2">[2]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation. (JGR Solid Earth) 
 
 ### In preparation
 <a id="1">[1]</a> Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz, and Jean Virieux. A stable first-order perfectly matched layer condition via the
