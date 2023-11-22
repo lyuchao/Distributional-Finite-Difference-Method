@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "update fundings and authorships"
+git commit -m "add toys"
 git push origin main
