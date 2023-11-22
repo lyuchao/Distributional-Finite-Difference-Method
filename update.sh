@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "add fundings"
+git commit -m "update links"
 git push origin main
