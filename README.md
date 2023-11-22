@@ -5,14 +5,14 @@ If you want to follow and participate the development of DFDM, please follow us 
 If you use own code to implement your project, please cite at least one paper below
 
 ## Fundings support
-National Science Foundation (EAR-1758198) Barbara Romanowicz   
+National Science Foundation (EAR-1758198) Barbara Romanowicz    
 Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045) Chao Lyu   
-National high-level talent special support plan of China (Grant No. ) Liang Zhao
+National high-level talent special support plan of China (Grant No. ) Liang Zhao  
 France-Berkeley fund (FBF-10-2019)  Yder Masson   
 
 
 ## Presentations
-2023.12 AGU oral presentation: Distributional finite difference method for 3D seismic wave propagation. S21A-02 
+2023.12 AGU oral presentation: Distributional finite difference method for 3D seismic wave propagation. (S21A-02) 
 2023.04 SSA oral presentation: Three-dimensional distributional finite-difference modeling of elastic wave propagation in a heterogeneous Earth.
 
 ## References

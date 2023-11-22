@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "change name of directory"
+git commit -m "Fundings support"
 git push origin main
