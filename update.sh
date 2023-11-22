@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "Fundings support"
+git commit -m "paper under preparation"
 git push origin main
