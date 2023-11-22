@@ -1,12 +1,15 @@
 Hi, this is the DFDM github organization site to host a family of distributional finite-difference method code repositories
 ![image](figures/basic_cube_sphere_mesh.png)
-We (Yder Masson, Chao Lyu, ...) are dedicated to open-source development for the computational seismology community.
+We (Barbara Romanowicz, Chao Lyu, Jean Virieux, Liang Zhao, Peter Moczo, Yder Masson) are dedicated to open-source development for the computational seismology community.
 If you want to follow and participate the development of DFDM, please follow us and contribute it.
+If you use own code to implement your project, please cite at least one paper below
 
 ## Fundings support
-National Science Foundation (EAR-1758198), France-Berkeley fund (FBF-10-2019), the Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045), the National high-level talent special support plan (Grant No. Liang Zhao)
+National Science Foundation (EAR-1758198)  
+France-Berkeley fund (FBF-10-2019)   
+the Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045)   
+the National high-level talent special support plan (Grant No. Liang Zhao)
 
-If you use own code to implement your project, please cite at least one paper below
 
 ## Presentations
 2023.12 AGU oral presentation: Distributional finite difference method for 3D seismic wave propagation. S21A-02 
