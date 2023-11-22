@@ -14,10 +14,10 @@ If you use own code to implement your project, please cite at least one paper be
 
 ## References
 ### Under Review
-<a id="3">[3]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology.  
-<a id="4">[4]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation.  
+<a id="1">[1]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology.  
+<a id="2">[2]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation.  
 ### In preparation
-<a id="5">[5]</a> Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz, and Jean Virieux. A stable first-order perfectly matched layer condition via the
+<a id="1">[1]</a> Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz, and Jean Virieux. A stable first-order perfectly matched layer condition via the
 distributional finite-difference method for the acoustic wave propagation modeling.  
 ### Published
 <a id="1">[1]</a> Yder Masson. Distributional finite-difference modelling of seismic waves. Geophysical Journal International, Volume 233, Issue 1, April 2023, Pages 264–296, https://doi.org/10.1093/gji/ggac306.  
