@@ -12,8 +12,8 @@ France-Berkeley fund (FBF-10-2019)  Yder Masson
 
 
 ## Presentations Related
-2023.12 AGU oral presentation. Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz. Distributional finite difference method for 3D seismic wave propagation. (S21A-02)   
-2023.04 SSA oral presentation. Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz. Three-dimensional distributional finite-difference modeling of elastic wave propagation in a heterogeneous Earth.
+2023.12 AGU Chao Lyu, Yder Masson, Liang Zhao, Barbara Romanowicz. Distributional finite difference method for 3D seismic wave propagation. (S21A-02)   
+2022.12 AGU Yder Masson, Chao Lyu, Barbara Romanowicz. Three-dimensional distributional finite-difference modelling of elastic wave propagation in a heterogeneous Earth. (S21A-09)    
 
 ## References
 ### Under Review

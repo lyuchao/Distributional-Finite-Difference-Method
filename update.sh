@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "paper under preparation"
+git commit -m "change presentations"
 git push origin main
