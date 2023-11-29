@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "change presentations"
+git commit -m "build License"
 git push origin main
