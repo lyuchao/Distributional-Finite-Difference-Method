@@ -7,8 +7,9 @@ If you use own code to implement your project, please cite at least one paper be
 ## Fundings support
 National Science Foundation (EAR-1758198) Barbara Romanowicz    
 Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045) Chao Lyu   
-National high-level talent special support plan of China (Grant No. ) Liang Zhao  
-France-Berkeley fund (FBF-10-2019)  Yder Masson   
+Strategic Priority Research Program of the Chinese Acasemy ofSciences (Grant No. XDB42020102) Liang Zhao  
+France-Berkeley fund (Grant: No. FBF-10-2019)  Yder Masson 
+Agence Nationale de la Recherche (Grant: No. 16-IDEX-0002)  Yder Masson 
 
 
 ## Presentations Related
