@@ -4,12 +4,12 @@ We (Barbara Romanowicz, Chao Lyu, Jean Virieux, Jianwei Ma, Liang Zhao, Muaaz Aw
 If you want to follow and participate the development of DFDM, please follow us and contribute it.
 If you use own code to implement your project, please cite at least one paper below
 
-## Fundings support
-National Science Foundation (EAR-1758198) Barbara Romanowicz\\  
-Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045) Chao Lyu\\   
-Strategic Priority Research Program of the Chinese Acasemy ofSciences (Grant No. XDB42020102) Liang Zhao\\ 
-France-Berkeley fund (Grant: No. FBF-10-2019)  Yder Masson and Barbara Romanowicz\\ 
-Agence Nationale de la Recherche (Grant: No. 16-IDEX-0002)  Yder Masson\\ 
+## Fundings Support
+National Science Foundation (EAR-1758198) Barbara Romanowicz    
+Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045) Chao Lyu     
+Strategic Priority Research Program of the Chinese Acasemy ofSciences (Grant No. XDB42020102) Liang Zhao   
+France-Berkeley fund (Grant: No. FBF-10-2019)  Yder Masson and Barbara Romanowicz  
+Agence Nationale de la Recherche (Grant: No. 16-IDEX-0002)  Yder Masson   
 
 
 ## Presentations Related
