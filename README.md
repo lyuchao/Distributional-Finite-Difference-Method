@@ -7,7 +7,7 @@ If you use own code to implement your project, please cite at least one paper be
 ## Fundings Support
 National Science Foundation (EAR-1758198) Barbara Romanowicz    
 Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 42004045) Chao Lyu     
-Strategic Priority Research Program of the Chinese Acasemy ofSciences (Grant No. XDB42020102) Liang Zhao   
+Strategic Priority Research Program of the Chinese Acasemy of Sciences (Grant No. XDB42020102) Liang Zhao   
 France-Berkeley fund (Grant: No. FBF-10-2019)  Yder Masson and Barbara Romanowicz  
 Agence Nationale de la Recherche (Grant: No. 16-IDEX-0002)  Yder Masson   
 
@@ -27,5 +27,5 @@ Agence Nationale de la Recherche (Grant: No. 16-IDEX-0002)  Yder Masson
 ### Published
 <a id="1">[1]</a> Yder Masson. Distributional finite-difference modelling of seismic waves. Geophysical Journal International, Volume 233, Issue 1, April 2023, Pages 264–296, https://doi.org/10.1093/gji/ggac306.  
 <a id="2">[2]</a> Yder Masson and Jean Virieux. P-SV-wave propagation in heterogeneous media: Velocity-stress distributional finite-difference method. GEOPHYSICS 2023 88:3, T165-T183, https://doi.org/10.1190/geo2022-0118.1    
-<a id="1">[3]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology, GJI, https://doi.org/10.1093/gji/ggae025
+<a id="3">[3]</a> Yder Masson, Chao Lyu, Peter Moczo, Yann Capdeville, Barbara Romanowicz. 2D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology, GJI, https://doi.org/10.1093/gji/ggae025  
 <a id="4">[4]</a> Chao Lyu, Yder Masson, Barbara Romanowicz, Liang Zhao. Introduction to the distributional finite-difference method for three-dimensional seismic wave propagation. JGR Solid Earth, https://doi.org/10.1029/2023JB027576
