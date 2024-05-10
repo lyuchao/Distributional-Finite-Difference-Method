@@ -1,6 +1,6 @@
 Hi, this is the DFDM github organization site to host a family of distributional finite-difference method code repositories
 ![image](figures/basic_cube_sphere_mesh.png)
-We (Barbara Romanowicz, Chao Lyu, Jean Virieux, Jianwei Ma, Liang Zhao, Muaaz Awan, Peter Moczo, Yann Capdeville, Yder Masson) are dedicated to open-source development for the computational seismology community.
+We (Barbara Romanowicz, Chao Lyu, Jean Virieux, Liang Zhao, Muaaz Awan, Peter Moczo, Yann Capdeville, Yder Masson) are dedicated to open-source development for the computational seismology community.
 If you want to follow and participate the development of DFDM, please follow us and contribute it.
 If you use own code to implement your project, please cite at least one paper below
 
